@@ -3,3 +3,4 @@ This is a repository having full notes
 jenkins and kubernetes are balance to lear
 need to do more projects
 learn carefully
+what is devops
