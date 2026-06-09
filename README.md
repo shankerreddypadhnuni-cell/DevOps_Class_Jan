@@ -4,3 +4,4 @@ jenkins and kubernetes are balance to lear
 need to do more projects
 learn carefully
 what is devops
+devops is an high paid job in the market
